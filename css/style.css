@@ -1,0 +1,147 @@
+.body{
+	padding: 0vw;
+	margin: 0vw;
+	background-color: #F3ECDC;
+}
+
+.backimg{
+	min-height: 100vh;
+	display: flex;
+	background: linear-gradient(to left,
+	                            rgba(52, 78, 65, .3),
+	                            rgba(52, 78, 65, .8),
+	                            rgba(52, 78, 65, 10)),
+	                            url('../images/hotel.jpg');
+	background-repeat: no-repeat;                                                       
+	background-size: cover;
+}
+
+.top{
+	background-color: #588157;
+	width: 50vw;
+	height: 4vw;
+	border-bottom-left-radius: 5vw;
+	border-bottom-right-radius: 5vw;
+}
+.fix{
+	position: fixed;
+}
+
+}
+
+.dani{
+	margin-top: 1vw;
+	color: white;
+	position: relative;
+}
+
+.gap{
+	font-size: 1.3vw;
+	margin-left: 5vw;
+	margin-top: 1vw;
+	color: white;
+}
+
+.e{
+	color: white;
+	margin-top: 1vw;
+	margin-left: 1.8vw;
+	position: absolute;
+	ba
+}
+.tag{
+	color: white;
+	margin-top: 1vw;
+	margin-left: 3vw;
+	font-size: 1vw;
+	position: relative;
+}
+
+.phone{
+	color: white;
+	margin-top: 1vw;
+	position: absolute;
+}
+.num{
+	color: white;
+	margin-top: 1vw;
+	margin-left: 1vw;
+	font-size: 1vw;
+	position: relative;
+}
+
+.wht{
+	color: white;
+}
+.nav{
+	margin-top: 2vw;
+}
+.btn{
+	margin-top: 1vw;
+	margin-left: 10vw;
+}
+.sidebar{
+	margin-left: 3vw;
+}
+.hubangi{
+	color: white;
+	margin-top: 12vw;
+	font-size: 6vw;
+	font-family: 'Kalnia', serif;
+}
+.kami{
+	color: #A3B18A;
+}
+.prag{
+	font-size: 1.2vw;
+	color: white;
+}
+.hubangi2{
+	font-family: 'Kalnia', serif;
+	font-size: 2vw;
+	padding: 1vw;
+}
+.prag2{
+	padding: 1vw;
+}
+.shadow{
+	border-radius: 1.5vw;
+	background-color: #F9F9F9;
+	margin-top: 5vw;
+}
+.name{
+	padding: 1vw;
+}
+.btn1{
+	margin-left: 1vw;
+	margin-bottom: 2vw;
+}
+.tetap{
+	margin-top: 9vw;
+	margin-left: 2vw;
+	color: #A3B18A;
+}
+.hubangi3{
+	margin-left: 2vw;
+	font-family: 'Kalnia', serif;
+	font-size: 2vw;
+}
+.lorem{
+	margin-left: 2vw;
+	margin-top: 3vw;
+}
+.map{
+	color: #A3B18A;
+	font-size: 2vw;
+	position: relative;
+	margin-left: 2vw;
+}
+.tem-map{
+	font-size: 1.3vw;
+	margin-top: 0.7vw;
+	position: absolute;
+	margin-left:5vw;
+}
+.style{
+	margin-left: 5vw;
+}
